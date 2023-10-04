@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Job_Dheko/static/css/main.2f112ca4.css",
+    "main.js": "/Job_Dheko/static/js/main.7e94bb60.js",
+    "static/media/ilustrasi.png": "/Job_Dheko/static/media/ilustrasi.b8e022467d3822bdafc4.png",
+    "index.html": "/Job_Dheko/index.html",
+    "main.2f112ca4.css.map": "/Job_Dheko/static/css/main.2f112ca4.css.map",
+    "main.7e94bb60.js.map": "/Job_Dheko/static/js/main.7e94bb60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f112ca4.css",
+    "static/js/main.7e94bb60.js"
+  ]
+}
